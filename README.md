@@ -1,7 +1,7 @@
 <h1 align="center">
  <h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif?raw=true" width="30px">, I'm Mohammed</h1>
 </h1>
-<h3 align="center">Code, coffee, chaos, repeat. Data stories in the making</h3>
+<h3 align="center">Code, coffee, chaos, repeat.</h3>
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo2N2lkMnlzNXh5MzkzbzRwc2UybGJ2cGF3NTA4OGhrNjFqYWdiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"  />
