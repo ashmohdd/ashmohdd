@@ -11,17 +11,13 @@
 
 ---
 
-- 🌱 I’m currently learning **LangChain • Vector DBs (Pinecone & FAISS) • Retrieval Augmented Generation (RAG) • Prompt Engineering • OpenAI API • Streamlit • Power BI DAX wizardry**
-
-- 👨‍💻 All of my projects are available at [ashwaqmohd.com](https://ashwaqmohd.com)
+- 💬 Ask me about financial modeling, automating analyst workflows in Python, or Power BI DAX
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@abdulashwaq12)
 
-- 💬 Ask me about **Data storytelling, Power BI, Python for analysis, and caffeine preferences**
+- 💬 Ask me about **Python and SQL for the heavy lifting, Power BI and Alteryx to make it readable for stakeholders**
 
 - 📫 How to reach me: **abdulashwaqmohammed@gmail.com**
-
-- ⚡ Fun fact: **Once used data to predict blood donations, now I just donate good vibes**
 
 ---
 
